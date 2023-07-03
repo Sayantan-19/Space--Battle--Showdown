@@ -1,0 +1,2 @@
+# pygame "Space Battle Showdown"
+I created a multiplayer 2D game using Pygame. The game features two spaceships, each equipped with its own health. The objective is to shoot down the opponent's spaceship and reduce their health to zero. The spaceship with the higher remaining health emerges as the winner. Players can control their respective spaceships independently, adding an element of strategy and skill. This simple game project showcases the power of Pygame for creating engaging multiplayer experiences.
